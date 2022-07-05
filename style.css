@@ -1,1 +1,65 @@
-!
+body{
+    margin: 0;
+    padding: 2% 7%;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+
+}
+.skip-diet{
+display: flex;
+margin-bottom: 140px;
+
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 30%;
+    padding: 60px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+.mb1{
+    margin-bottom: 90px;
+}
+.half-width img{
+    width: 130%;
+    padding-left: 70px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 12px 20px; 
+    font-weight:700 ; 
+    border-radius: 35px;
+    color: white;
+    
+}
+
+.middle-banner{
+    display: flex;
+    background-image:url(images/7.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+
+.half-width-m img{
+width: 55%;
+padding: 60px;
+}
+.half-width-ab{
+width: 100%;
+padding: 100px;
+}
+.recipies{
+    text-align: center;
+}
+.recipie-para{
+    text-align: center;
+    padding: 0px 250px;
+}
